@@ -1,0 +1,9 @@
+# Dataset de Kvasir v2
+/data/
+
+# Entorno virtual de Python
+.venv/
+
+# Archivos temporales
+__pycache__/
+.ipynb_checkpoints/
